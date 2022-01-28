@@ -12,8 +12,8 @@
 
 
 ### Talk with me, I am kinda Psychic :joy::
-[<img align="left" alt="nottechie_addict | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
+[<img align="left" alt="nottechie_addict | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 
-[linkedin]: https://linkedin.com/in/heta-patel-152169190
+[linkedin]: https://www.linkedin.com/in/heta-patel-152169190

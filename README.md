@@ -1,5 +1,7 @@
 ### Hey píos!I'm Heta - aka [nottechie_addict]  :wave:
 
+<img align="right" alt="GIF" src="" width="500" height="320" />
+
 ## I'm a Developer & ummm....Creator!!
 - :rainbow: I'm interested in Web development 
 - :seedling: I'm currently learning REACTJS and BOOTSTRAP.
@@ -16,6 +18,12 @@
 [<img align="left" alt="nottechie_addict | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+### Languages and Tools:
+
+
+
+
 
 
 [linkedin]: https://www.linkedin.com/in/heta-patel-152169190

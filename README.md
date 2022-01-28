@@ -1,10 +1,15 @@
 ### Hola!I'm Heta :wave:
 
-- :rainbow: I'm currently working on
-- :seedling: I'm currently learning
-- :confused: I'm looking to collaborate on..
+## I'm a Developer & ummm....Creator!!
+- :rainbow: I'm interested in Web development 
+- :seedling: I'm currently learning REACTJS and BOOTSTRAP.
+- :confused: I'm looking to collaborate on Open-source
 - :revolving_hearts: I'm looking for help with ..
 - :speech_balloon: Ask me anythinnggg..
 - :mailbox: How to reach me: hetahub345@gmail.com
 - :dizzy_face: Pronouns: She/her..
-- :zap: Fun Fact: 
+- :zap: Fun Fact:  I'm not techie addict.:joy::joy::joy:
+
+
+### Talk with me, I am kinda Psychic:
+[<img align="left" alt="nottechie_addict| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

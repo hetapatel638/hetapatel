@@ -4,7 +4,7 @@
 
 ## I'm a Developer & ummm....Creator!!
 - :rainbow: I'm interested in Web development 
-- :seedling: I'm currently learning REACTJS and BOOTSTRAP.
+- :seedling: I'm currently learning ReactJS and node.js.
 - :confused: I'm looking to collaborate on Open-source
 - :revolving_hearts: I'm looking for help with ..
 - :speech_balloon: Ask me anythinnggg..

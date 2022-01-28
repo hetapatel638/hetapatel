@@ -34,5 +34,5 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/heta-patel-152169190
+[linkedin]: https://www.linkedin.com/in/heta-patel-152169190/
 [instagram]: https://www.instagram.com/hetta.patel_/

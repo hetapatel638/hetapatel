@@ -7,7 +7,7 @@
 - :seedling: I'm currently learning ReactJS and node.js.
 - :confused: I'm looking to collaborate on Open-source
 - :revolving_hearts: I'm looking for help with ..
-- :speech_balloon: Ask me anythinnggg..
+- :speech_balloon: Ask me about....
 - :mailbox: How to reach me: hetahub345@gmail.com
 - :dizzy_face: Pronouns: She/her..
 - :zap: Fun Fact:  I'm not techie addict.:joy::joy::joy:

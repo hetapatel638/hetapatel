@@ -1,4 +1,4 @@
-### Hola!I'm Heta :wave:
+### Hey píos!I'm Heta :wave:
 
 ## I'm a Developer & ummm....Creator!!
 - :rainbow: I'm interested in Web development 
@@ -11,5 +11,6 @@
 - :zap: Fun Fact:  I'm not techie addict.:joy::joy::joy:
 
 
-### Talk with me, I am kinda Psychic:
-[<img align="left" alt="nottechie_addict| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Talk with me, I am kinda Psychic :joy::
+[<img align="left" alt="nottechie_addict| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin/]
+<br />

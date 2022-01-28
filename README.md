@@ -1,6 +1,6 @@
 ### Hey píos!I'm Heta - aka [nottechie_addict]  :wave:
 
-<img align="right" alt="GIF" src="" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/hetapatel638/hetapatel638/blob/main/coder.gif" width="500" height="320" />
 
 ## I'm a Developer & ummm....Creator!!
 - :rainbow: I'm interested in Web development 
@@ -31,8 +31,6 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
-<br />
-<br />
 
 [linkedin]: https://www.linkedin.com/in/heta-patel-152169190/
 [instagram]: https://www.instagram.com/hetta.patel_/

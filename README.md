@@ -1,6 +1,6 @@
 ### Hey píos!I'm Heta - aka [nottechie_addict]  :wave:
 
-<img align="right" alt="GIF" src="https://github.com/hetapatel638/hetapatel638/blob/main/coder.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/hetapatel638/hetapatel638/blob/main/hihihi.gif" width="500" height="320" />
 
 ## I'm a Developer & ummm....Creator!!
 - :rainbow: I'm interested in Web development 

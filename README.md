@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/hetapatel638/hetapatel638/blob/main/coder.gif" width="500" height="320" />
 
 ## I'm a Developer & ummm....Creator!!
-- :rainbow: I'm interested in Web development 
+- I'm interested in Web development 
 - :seedling: I'm currently learning ReactJS and node.js.
 - :confused: I'm looking to collaborate on Open-source
 - :revolving_hearts: I'm looking for help with ..
